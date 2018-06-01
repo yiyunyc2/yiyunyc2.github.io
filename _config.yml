@@ -23,7 +23,7 @@ repository: yiyunyc2.github.io
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-cayman
 theme: jekyll-theme-cayman
 
 plugins:
