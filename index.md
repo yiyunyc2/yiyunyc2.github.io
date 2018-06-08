@@ -8,6 +8,8 @@
 
 Workflow: taxonomy alignments for diff taxonomies over the years → get occurence data from Weakley herbarium → model what it ‘could have been’ in 1933, 1968, 2003 with different taxonomies
 
+6. Research on the possibility of aligning different flora
+
 ## Week 2 (May 28 - Jun 1)
 1. Set up private github repo on iDaks for datasets sharing
 2. Check in the Orchid datasets
